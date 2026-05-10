@@ -469,7 +469,7 @@ MIT License
 <!-- clawhub-sync-start -->
 ## ClawHub (Skill Registry)
 
-Latest commit: `5b63d5d`
+Latest commit: `003d243`
 
 ### Packages
 
@@ -486,10 +486,10 @@ Latest commit: `5b63d5d`
 Common CLI flows:
 
 - Auth: `clawhub login`, `clawhub whoami`
+- Remote/headless auth: `clawhub login --device`
 - Discover: `clawhub search ...`, `clawhub explore`
 - Browse unified catalog (skills + plugins): `clawhub package explore`, `clawhub package inspect <name>`
-- Manage local installs: `clawhub install <slug>`, `clawhub uninstall <slug>`, `clawhub list`, `clawhub update --all`
+- Manage local installs: `clawhub install <slug>`, `clawhub pin <slug>`, `clawhub unpin <slug>`, `clawhub uninstall <slug>`, `clawhub list`, `clawhub update --all`
 - Inspect without installing: `clawhub inspect <slug>`
-- Publish/sync skills: `clawhub skill publish <path>`, `clawhub sync`
-- Publish plugins: `clawhub pac
+- Publ
 <!-- clawhub-sync-end -->
