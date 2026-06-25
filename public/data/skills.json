@@ -1455,8 +1455,32 @@
       "category": "Other",
       "source": "VoltAgent/awesome-agent-skills",
       "crawled_at": "2026-02-02T17:07:33.816746"
+    },
+    {
+      "name": "MackDing/ai-native-founder-playbook-skill",
+      "description": "Bilingual, vendor-neutral Agent Skill for startup idea validation, customer discovery, MVP scoping, PMF diagnostics, launch operations, GTM planning, and AI-native founder workflows.",
+      "link": "https://github.com/MackDing/ai-native-founder-playbook-skill",
+      "category": "Business and Marketing",
+      "source": "Community submission",
+      "crawled_at": "2026-05-26T00:00:00.000000"
+    },
+    {
+      "name": "MackDing/andrej-karpathy-skills-zh",
+      "description": "Chinese Claude Code, Codex, Cursor, and AI coding agent rules that turn Karpathy-inspired coding principles into reusable CLAUDE.md, AGENTS.md, Cursor Rules, and Skill formats.",
+      "link": "https://github.com/MackDing/andrej-karpathy-skills-zh",
+      "category": "Development and Testing",
+      "source": "Community submission",
+      "crawled_at": "2026-05-26T00:00:00.000000"
+    },
+    {
+      "name": "MackDing/skill-usage",
+      "description": "Zero-dependency real-time dashboard for monitoring OpenClaw, Hermes-Agent, Claude Code, and Codex skill calls, latency, failures, and redundant or idle skills.",
+      "link": "https://github.com/MackDing/skill-usage",
+      "category": "Productivity and Collaboration",
+      "source": "Community submission",
+      "crawled_at": "2026-05-26T00:00:00.000000"
     }
   ],
-  "total": 182,
-  "updated_at": "2026-02-02T17:07:33.819738"
+  "total": 185,
+  "updated_at": "2026-05-26T00:00:00.000000"
 }
