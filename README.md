@@ -524,7 +524,7 @@ MIT License
 <!-- clawhub-sync-start -->
 ## ClawHub (Skill Registry)
 
-Latest commit: `82313c2`
+Latest commit: `d915714`
 
 ### Packages
 
