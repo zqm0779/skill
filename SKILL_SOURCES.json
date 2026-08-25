@@ -5,389 +5,9 @@
       "discovered_at": "2026-02-28T06:11:46.028190",
       "description": ""
     },
-    "perso-ai/perso-dubbing-plugin": {
+    "tjboudreaux/cc-thinking-skills": {
       "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-19T02:59:56.746272",
-      "description": ""
-    },
-    "citlyze/citlyze-skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-24T03:05:54.222759",
-      "description": ""
-    },
-    "coreyhaines31/marketingskills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109720",
-      "description": ""
-    },
-    "AIDevGTM/gtm-cofounder": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-04T05:18:02.922074",
-      "description": ""
-    },
-    "sergebulaev/linkedin-skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-14T04:11:13.662844",
-      "description": ""
-    },
-    "google/skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-05-25T06:16:12.533183",
-      "description": ""
-    },
-    "pattern-ai-labs/agentcall": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-06-24T05:57:30.687166",
-      "description": ""
-    },
-    "fvadicamo/dev-agent-skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109651",
-      "description": ""
-    },
-    "Ericyoung-183/alpha-insights": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-06-13T06:06:41.984176",
-      "description": ""
-    },
-    "takechanman1228/claude-ecom": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-03-13T04:02:15.426327",
-      "description": ""
-    },
-    "NVIDIA/skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-05-25T06:16:12.533202",
-      "description": ""
-    },
-    "talkstream/ru-text": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-04-02T04:18:35.406190",
-      "description": ""
-    },
-    "orziz/odai": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-24T03:05:54.222777",
-      "description": ""
-    },
-    "mailtrap/mailtrap-skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-22T02:56:23.355898",
-      "description": ""
-    },
-    "jthack/ffuf_claude_skill": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109783",
-      "description": ""
-    },
-    "Maksim-Burtsev/simple-man": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-24T03:05:54.222781",
-      "description": ""
-    },
-    "resend/resend-skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-04-05T04:27:58.191475",
-      "description": ""
-    },
-    "JasonColapietro/suede-creator-skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-08T03:35:33.087937",
-      "description": ""
-    },
-    "HeshamFS/materials-simulation-skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109637",
-      "description": ""
-    },
-    "GanyuanRan/Aegis": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-06-13T06:06:41.984186",
-      "description": ""
-    },
-    "SeanZoR/claude-speed-reader": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109704",
-      "description": ""
-    },
-    "truongduy2611/app-store-preflight-skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-03-24T04:07:55.842135",
-      "description": ""
-    },
-    "modem-dev/skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-19T02:59:56.746447",
-      "description": ""
-    },
-    "AvdLee/SwiftUI-Agent-Skill": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109728",
-      "description": ""
-    },
-    "lawvable/awesome-legal-skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109667",
-      "description": ""
-    },
-    "Sendmux/skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-07-11T05:16:31.387210",
-      "description": ""
-    },
-    "superdesigndev/superdesign-skill": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-19T02:59:56.746381",
-      "description": ""
-    },
-    "EveryInc/charlie-cfo-skill": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109754",
-      "description": ""
-    },
-    "mukul975/Anthropic-Cybersecurity-Skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-03-24T04:07:55.842127",
-      "description": ""
-    },
-    "Paramchoudhary/ResumeSkills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109694",
-      "description": ""
-    },
-    "mcollina/skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-03-26T04:23:38.737221",
-      "description": ""
-    },
-    "robzolkos/skill-rails-upgrade": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109679",
-      "description": ""
-    },
-    "eduardo-sl/go-agent-skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-14T04:11:13.662804",
-      "description": ""
-    },
-    "hqhq1025/skill-optimizer": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-04-14T04:37:00.480220",
-      "description": ""
-    },
-    "indranilbanerjee/digital-marketing-pro": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-05-25T06:16:12.533231",
-      "description": ""
-    },
-    "aeonfun/aeon": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-22T02:56:23.355798",
-      "description": ""
-    },
-    "en/copilot": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109676",
-      "description": ""
-    },
-    "Tubo2333/obsidian-knowledge-brain": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-07-11T05:16:31.387156",
-      "description": ""
-    },
-    "Orkas-AI/Orkas-VideoStudio": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-04T05:18:02.922062",
-      "description": ""
-    },
-    "Lum1104/Understand-Anything": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-04-11T04:11:02.514000",
-      "description": ""
-    },
-    "CloudAI-X/threejs-skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109657",
-      "description": ""
-    },
-    "morluto/rea": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-17T03:02:32.092030",
-      "description": ""
-    },
-    "RoundTable02/tutor-skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-03-02T04:03:57.135296",
-      "description": ""
-    },
-    "zapier/zapier-mcp": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-14T04:11:13.662666",
-      "description": ""
-    },
-    "cypress-io/ai-toolkit": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-06-06T05:45:10.014732",
-      "description": ""
-    },
-    "makenotion/claude-code-notion-plugin": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-03-30T04:36:06.656544",
-      "description": ""
-    },
-    "Orchestra-Research/AI-research-SKILLs": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109710",
-      "description": ""
-    },
-    "Ryan-yang125/motion-lexicon": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-13T04:14:37.841764",
-      "description": ""
-    },
-    "awrshift/claude-memory-kit": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-04-21T04:40:02.251501",
-      "description": ""
-    },
-    "zechenzhangAGI/AI-research-SKILLs": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109660",
-      "description": ""
-    },
-    "Alisa0808/vibe-creating-skill": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-07-11T05:16:31.387073",
-      "description": ""
-    },
-    "yusufkaraaslan/Skill_Seekers": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109782",
-      "description": ""
-    },
-    "sametbrr/llm-wiki-manager": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-06-21T06:41:39.708631",
-      "description": ""
-    },
-    "smixs/creative-director-skill": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-03-02T04:03:57.135263",
-      "description": ""
-    },
-    "VoltAgent/voltagent": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109786",
-      "description": ""
-    },
-    "LambdaTest/agent-skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-04-17T04:40:20.235618",
-      "description": ""
-    },
-    "PleasePrompto/notebooklm-skill": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109723",
-      "description": ""
-    },
-    "trycourier/courier-skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-04-05T04:27:58.191532",
-      "description": ""
-    },
-    "ibelick/ui-skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109714",
-      "description": ""
-    },
-    "Linked-API/linkedin-skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-07-11T05:16:31.387065",
-      "description": ""
-    },
-    "conorluddy/ios-simulator-skill": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109702",
-      "description": ""
-    },
-    "phuryn/pm-skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-03-07T03:50:49.944432",
-      "description": ""
-    },
-    "hedralab/eskill": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-24T03:05:54.222840",
-      "description": ""
-    },
-    "kreuzberg-dev/kreuzberg": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109663",
-      "description": ""
-    },
-    "reliefeai/browser-relay": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-14T04:11:13.662615",
-      "description": ""
-    },
-    "VoltAgent/awesome-codex-subagents": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-03-20T04:04:12.610548",
-      "description": ""
-    },
-    "infrasity-labs/dev-gtm-claude-skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-06-13T06:06:41.984253",
-      "description": ""
-    },
-    "gooseworks-ai/goose-skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-14T04:11:13.662847",
-      "description": ""
-    },
-    "oliver-zehentleitner/keep-the-why": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-04T05:18:02.922136",
-      "description": ""
-    },
-    "massimodeluisa/recursive-decomposition-skill": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109664",
-      "description": ""
-    },
-    "zincio/skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-24T03:05:54.222850",
-      "description": ""
-    },
-    "ehmo/platform-design-skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109721",
-      "description": ""
-    },
-    "gitroomhq/postiz-agent": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-04-21T04:40:02.251563",
-      "description": ""
-    },
-    "ohad6k/emulo": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-04T05:18:02.922084",
-      "description": ""
-    },
-    "scarletkc/vexor": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109743",
-      "description": ""
-    },
-    "Xquik-dev/x-twitter-scraper": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-05-09T04:59:55.983585",
-      "description": ""
-    },
-    "antonbabenko/terraform-skill": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109747",
+      "discovered_at": "2026-08-19T02:59:56.746308",
       "description": ""
     },
     "Leonxlnx/taste-skill": {
@@ -395,44 +15,14 @@
       "discovered_at": "2026-02-28T06:11:46.109777",
       "description": ""
     },
-    "angular/skills": {
+    "wrsmith108/linear-claude-skill": {
       "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-04-21T04:40:02.251564",
+      "discovered_at": "2026-02-28T06:11:46.109740",
       "description": ""
     },
-    "sanjay3290/ai-skills": {
+    "conorluddy/ios-simulator-skill": {
       "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109659",
-      "description": ""
-    },
-    "khendzel/skills-janitor": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-13T04:14:37.841731",
-      "description": ""
-    },
-    "makenotion/notion-cookbook": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-03-30T04:36:06.656394",
-      "description": ""
-    },
-    "GarethManning/education-agent-skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-19T02:59:56.746315",
-      "description": ""
-    },
-    "tjboudreaux/cc-thinking-skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-19T02:59:56.746308",
-      "description": ""
-    },
-    "snyk/agent-scan": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109722",
-      "description": ""
-    },
-    "omkamal/pypict-claude-skill": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109778",
+      "discovered_at": "2026-02-28T06:11:46.109702",
       "description": ""
     },
     "op7418/NanoBanana-PPT-Skills": {
@@ -440,249 +30,9 @@
       "discovered_at": "2026-02-28T06:11:46.109672",
       "description": ""
     },
-    "ognjengt/founder-skills": {
+    "woniu9524/open-web-bridge": {
       "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109746",
-      "description": ""
-    },
-    "zarazhangrui/frontend-slides": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109687",
-      "description": ""
-    },
-    "Simon-He95/markstream-vue": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-14T04:11:13.662616",
-      "description": ""
-    },
-    "transloadit/skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109647",
-      "description": ""
-    },
-    "prompt-security/clawsec": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109757",
-      "description": ""
-    },
-    "muratcankoylan/Agent-Skills-for-Context-Engineering": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109668",
-      "description": ""
-    },
-    "aaron-he-zhu/aaron-marketing-skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-07-11T05:16:31.387127",
-      "description": ""
-    },
-    "Charlie85270/Dorothy": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-03-11T04:01:18.385205",
-      "description": ""
-    },
-    "SHADOWPR0/security-bluebook-builder": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109688",
-      "description": ""
-    },
-    "wrsmith108/varlock-claude-skill": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109705",
-      "description": ""
-    },
-    "k-kolomeitsev/data-structure-protocol": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109692",
-      "description": ""
-    },
-    "Vladimir-Human/humanizer-ru": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-13T04:14:37.841792",
-      "description": ""
-    },
-    "hanfang/claude-memory-skill": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109774",
-      "description": ""
-    },
-    "obra/superpowers": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109748",
-      "description": ""
-    },
-    "MohamedAbdallah-14/unslop": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-05-04T05:23:48.419420",
-      "description": ""
-    },
-    "alinaqi/claude-bootstrap": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109729",
-      "description": ""
-    },
-    "frmoretto/clarity-gate": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109649",
-      "description": ""
-    },
-    "qdrant/skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-04-05T04:27:58.191456",
-      "description": ""
-    },
-    "BrianRWagner/ai-marketing-skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109752",
-      "description": ""
-    },
-    "apitube/news-api-skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-24T03:05:54.222894",
-      "description": ""
-    },
-    "dembrandt/dembrandt-skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-05-25T06:16:12.533332",
-      "description": ""
-    },
-    "Joannis/claude-skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109661",
-      "description": ""
-    },
-    "aklofas/kicad-happy": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-04-16T04:43:12.837897",
-      "description": ""
-    },
-    "user-attachments/assets": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109682",
-      "description": ""
-    },
-    "rudrankriyam/app-store-connect-cli-skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109711",
-      "description": ""
-    },
-    "efremidze/swift-patterns-skill": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109666",
-      "description": ""
-    },
-    "SHADOWPR0/beautiful_prose": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109759",
-      "description": ""
-    },
-    "AgriciDaniel/claude-seo": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109697",
-      "description": ""
-    },
-    "testdino-hq/playwright-skill": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-03-04T03:59:05.699835",
-      "description": ""
-    },
-    "realkimbarrett/advertising-skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-04-12T04:37:59.238563",
-      "description": ""
-    },
-    "ethos-link/rails-conventions": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-03-19T04:11:47.127733",
-      "description": ""
-    },
-    "ZhangHanDong/makepad-skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109684",
-      "description": ""
-    },
-    "veniceai/skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-04-26T04:50:42.881483",
-      "description": ""
-    },
-    "rameerez/claude-code-startup-skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109671",
-      "description": ""
-    },
-    "Kevin7Qi/codex-collab": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-03-18T04:13:12.616103",
-      "description": ""
-    },
-    "video-db/skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-03-07T03:50:49.944482",
-      "description": ""
-    },
-    "squirrelscan/squirrelscan": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-14T04:11:13.662705",
-      "description": ""
-    },
-    "wrsmith108/linear-claude-skill": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109740",
-      "description": ""
-    },
-    "helius-labs/core-ai": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-03-19T04:11:47.127804",
-      "description": ""
-    },
-    "Panniantong/Agent-Reach": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-06-24T05:57:30.687220",
-      "description": ""
-    },
-    "honeydew-ai/honeydew-ai-coding-agents-plugins": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-05-11T05:49:20.903821",
-      "description": ""
-    },
-    "mvanhorn/last30days-skill": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-04-12T04:37:59.238686",
-      "description": ""
-    },
-    "zscole/model-hierarchy-skill": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109674",
-      "description": ""
-    },
-    "chrono-meta/forge-harness": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-24T03:05:54.222929",
-      "description": ""
-    },
-    "degausai/wonda": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-04-17T04:40:20.235720",
-      "description": ""
-    },
-    "thedotmack/claude-mem": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-22T02:56:23.355862",
-      "description": ""
-    },
-    "deusyu/translate-book": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-03-24T04:07:55.842108",
-      "description": ""
-    },
-    "wshuyi/x-article-publisher-skill": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109739",
-      "description": ""
-    },
-    "openaccountants/openaccountants": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-04-17T04:40:20.235654",
+      "discovered_at": "2026-08-24T03:05:54.223009",
       "description": ""
     },
     "meodai/skill": {
@@ -690,214 +40,24 @@
       "discovered_at": "2026-03-26T04:23:38.737230",
       "description": ""
     },
-    "Eronred/aso-skills": {
+    "mailtrap/mailtrap-skills": {
       "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-03-26T04:23:38.737271",
+      "discovered_at": "2026-08-22T02:56:23.355898",
       "description": ""
     },
-    "plasma-ai/fractal": {
+    "angular/skills": {
       "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-14T04:11:13.662818",
+      "discovered_at": "2026-04-21T04:40:02.251564",
       "description": ""
     },
-    "zilliztech/mfs": {
+    "GarethManning/education-agent-skills": {
       "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-13T04:14:37.841875",
+      "discovered_at": "2026-08-19T02:59:56.746315",
       "description": ""
     },
-    "deanpeters/Product-Manager-Skills": {
+    "obra/superpowers": {
       "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-03-04T03:59:05.699901",
-      "description": ""
-    },
-    "shouldnotappearcalm/a-share-skill": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-07-11T05:16:31.387176",
-      "description": ""
-    },
-    "Bomx/distribb-skill": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-04T05:18:02.922073",
-      "description": ""
-    },
-    "nowork-studio/NotFair": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-06-24T05:57:30.687160",
-      "description": ""
-    },
-    "hanhuark/mechanical-engineering-research-skill": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-06-24T05:57:30.687181",
-      "description": ""
-    },
-    "lindblomstefan/skills-library": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-24T03:05:54.222946",
-      "description": ""
-    },
-    "Rootly-AI-Labs/Rootly-MCP-server": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109683",
-      "description": ""
-    },
-    "K-Dense-AI/claude-scientific-skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109725",
-      "description": ""
-    },
-    "Optim-Agent/optim-agent": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-13T04:14:37.841751",
-      "description": ""
-    },
-    "czlonkowski/n8n-skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109734",
-      "description": ""
-    },
-    "zxkane/aws-skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109749",
-      "description": ""
-    },
-    "lackeyjb/playwright-skill": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109779",
-      "description": ""
-    },
-    "zw008/VMware-AIops": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-03-02T04:03:57.135367",
-      "description": ""
-    },
-    "nextlevelbuilder/ui-ux-pro-max-skill": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109744",
-      "description": ""
-    },
-    "op7418/Youtube-clipper-skill": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109700",
-      "description": ""
-    },
-    "wanshuiyin/Auto-claude-code-research-in-sleep": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-03-13T04:02:15.426342",
-      "description": ""
-    },
-    "HUANGCHIHHUNGLeo/claude-real-video": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-16T03:02:28.318535",
-      "description": ""
-    },
-    "BehiSecc/VibeSec-Skill": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-03-04T03:59:05.699915",
-      "description": ""
-    },
-    "thousandflowers/skillreaper": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-24T03:05:54.222961",
-      "description": ""
-    },
-    "ReScienceLab/opc-skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109737",
-      "description": ""
-    },
-    "SupercmoHQ/superCMO-skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-21T03:05:38.204220",
-      "description": ""
-    },
-    "coderabbitai/skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-03-27T04:25:02.026242",
-      "description": ""
-    },
-    "redis/agent-skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-05-04T05:23:48.419514",
-      "description": ""
-    },
-    "obra/superpowers-lab": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109712",
-      "description": ""
-    },
-    "PSPDFKit-labs/nutrient-agent-skill": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109696",
-      "description": ""
-    },
-    "ramzesenok/iOS-Accessibility-Audit-Skill": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-03-03T04:04:40.453737",
-      "description": ""
-    },
-    "NotMyself/claude-win11-speckit-update-skill": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109680",
-      "description": ""
-    },
-    "stjbrown/agent-knowledge": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-13T04:14:37.841783",
-      "description": ""
-    },
-    "komal-SkyNET/claude-skill-homeassistant": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109781",
-      "description": ""
-    },
-    "muthuishere/hand-drawn-diagrams": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-03-24T04:07:55.842091",
-      "description": ""
-    },
-    "baskduf/FableCodex": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-06-24T05:57:30.687245",
-      "description": ""
-    },
-    "mattpocock/skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-03-24T04:07:55.842066",
-      "description": ""
-    },
-    "taisly/agent": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-07-11T05:16:31.387110",
-      "description": ""
-    },
-    "foryourhealth111-pixel/Vibe-Skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-05-04T05:23:48.419482",
-      "description": ""
-    },
-    "officialzeroxyz/zero-plugins": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-07-01T06:15:40.300482",
-      "description": ""
-    },
-    "kgraph57/mckinsey-style-visualization-skill": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-22T02:56:23.355766",
-      "description": ""
-    },
-    "bitwize-music-studio/claude-ai-music-skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-03-27T04:25:02.026192",
-      "description": ""
-    },
-    "CosmoBlk/email-marketing-bible": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109733",
-      "description": ""
-    },
-    "huifer/Claude-Ally-Health": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109731",
+      "discovered_at": "2026-02-28T06:11:46.109748",
       "description": ""
     },
     "NoizAI/skills": {
@@ -905,74 +65,19 @@
       "discovered_at": "2026-03-09T04:06:16.390854",
       "description": ""
     },
-    "JimmySadek/youtube-fetcher-to-markdown": {
+    "EveryInc/charlie-cfo-skill": {
       "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-17T03:02:32.091994",
+      "discovered_at": "2026-02-28T06:11:46.109754",
       "description": ""
     },
-    "uucz/moyu": {
+    "wshuyi/x-article-publisher-skill": {
       "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-03-25T04:09:26.578976",
+      "discovered_at": "2026-02-28T06:11:46.109739",
       "description": ""
     },
-    "browser-act/skills": {
+    "k-kolomeitsev/data-structure-protocol": {
       "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-04T05:18:02.922144",
-      "description": ""
-    },
-    "santifer/career-ops": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-05-25T06:16:12.533261",
-      "description": ""
-    },
-    "metalbear-co/skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-05-05T04:52:45.441483",
-      "description": ""
-    },
-    "csthink/dashmotion": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-07-11T05:16:31.387160",
-      "description": ""
-    },
-    "raintree-technology/apple-hig-skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109652",
-      "description": ""
-    },
-    "Digidai/product-manager-skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-03-18T04:13:12.616083",
-      "description": ""
-    },
-    "gokapso/agent-skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109681",
-      "description": ""
-    },
-    "NeoLabHQ/context-engineering-kit": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-03-05T04:02:24.313965",
-      "description": ""
-    },
-    "agiwhitelist/auteur": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-19T02:59:56.746392",
-      "description": ""
-    },
-    "more-io/claude-apple-bridges": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-03-02T04:03:57.135402",
-      "description": ""
-    },
-    "ZeroPointRepo/youtube-skills": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-17T03:02:32.091948",
-      "description": ""
-    },
-    "blader/humanizer": {
-      "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-02-28T06:11:46.109669",
+      "discovered_at": "2026-02-28T06:11:46.109692",
       "description": ""
     },
     "Neeeophytee/finding-unknowns-skills": {
@@ -980,22 +85,922 @@
       "discovered_at": "2026-08-13T04:14:37.841752",
       "description": ""
     },
+    "obra/superpowers-lab": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109712",
+      "description": ""
+    },
+    "chrono-meta/forge-harness": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-08-24T03:05:54.222929",
+      "description": ""
+    },
+    "indranilbanerjee/digital-marketing-pro": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-05-25T06:16:12.533231",
+      "description": ""
+    },
+    "yusufkaraaslan/Skill_Seekers": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109782",
+      "description": ""
+    },
+    "hedralab/eskill": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-08-24T03:05:54.222840",
+      "description": ""
+    },
+    "hanfang/claude-memory-skill": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109774",
+      "description": ""
+    },
+    "wanshuiyin/Auto-claude-code-research-in-sleep": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-03-13T04:02:15.426342",
+      "description": ""
+    },
+    "makenotion/notion-cookbook": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-03-30T04:36:06.656394",
+      "description": ""
+    },
+    "sametbrr/llm-wiki-manager": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-06-21T06:41:39.708631",
+      "description": ""
+    },
+    "perso-ai/perso-dubbing-plugin": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-08-19T02:59:56.746272",
+      "description": ""
+    },
+    "omkamal/pypict-claude-skill": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109778",
+      "description": ""
+    },
+    "Ericyoung-183/alpha-insights": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-06-13T06:06:41.984176",
+      "description": ""
+    },
+    "LambdaTest/agent-skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-04-17T04:40:20.235618",
+      "description": ""
+    },
+    "morluto/rea": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-08-17T03:02:32.092030",
+      "description": ""
+    },
+    "aaron-he-zhu/aaron-marketing-skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-07-11T05:16:31.387127",
+      "description": ""
+    },
+    "NotMyself/claude-win11-speckit-update-skill": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109680",
+      "description": ""
+    },
+    "mvanhorn/last30days-skill": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-04-12T04:37:59.238686",
+      "description": ""
+    },
+    "Bomx/distribb-skill": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-08-04T05:18:02.922073",
+      "description": ""
+    },
     "Xquik-dev/tweetclaw": {
       "upstream_source": "voltagent_awesome",
       "discovered_at": "2026-03-18T04:13:12.616084",
       "description": ""
     },
-    "woniu9524/open-web-bridge": {
+    "eduardo-sl/go-agent-skills": {
       "upstream_source": "voltagent_awesome",
-      "discovered_at": "2026-08-24T03:05:54.223009",
+      "discovered_at": "2026-08-14T04:11:13.662804",
+      "description": ""
+    },
+    "op7418/Youtube-clipper-skill": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109700",
+      "description": ""
+    },
+    "user-attachments/assets": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109682",
+      "description": ""
+    },
+    "metalbear-co/skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-05-05T04:52:45.441483",
+      "description": ""
+    },
+    "ehmo/platform-design-skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109721",
+      "description": ""
+    },
+    "transloadit/skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109647",
+      "description": ""
+    },
+    "SHADOWPR0/security-bluebook-builder": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109688",
+      "description": ""
+    },
+    "Orchestra-Research/AI-research-SKILLs": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109710",
+      "description": ""
+    },
+    "reliefeai/browser-relay": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-08-14T04:11:13.662615",
+      "description": ""
+    },
+    "Xquik-dev/x-twitter-scraper": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-05-09T04:59:55.983585",
+      "description": ""
+    },
+    "raintree-technology/apple-hig-skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109652",
+      "description": ""
+    },
+    "more-io/claude-apple-bridges": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-03-02T04:03:57.135402",
+      "description": ""
+    },
+    "veniceai/skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-04-26T04:50:42.881483",
+      "description": ""
+    },
+    "Lum1104/Understand-Anything": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-04-11T04:11:02.514000",
+      "description": ""
+    },
+    "nowork-studio/NotFair": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-06-24T05:57:30.687160",
+      "description": ""
+    },
+    "AvdLee/SwiftUI-Agent-Skill": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109728",
+      "description": ""
+    },
+    "rameerez/claude-code-startup-skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109671",
+      "description": ""
+    },
+    "Maksim-Burtsev/simple-man": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-08-24T03:05:54.222781",
+      "description": ""
+    },
+    "zechenzhangAGI/AI-research-SKILLs": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109660",
+      "description": ""
+    },
+    "mukul975/Anthropic-Cybersecurity-Skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-03-24T04:07:55.842127",
+      "description": ""
+    },
+    "testdino-hq/playwright-skill": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-03-04T03:59:05.699835",
+      "description": ""
+    },
+    "bitwize-music-studio/claude-ai-music-skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-03-27T04:25:02.026192",
+      "description": ""
+    },
+    "GanyuanRan/Aegis": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-06-13T06:06:41.984186",
+      "description": ""
+    },
+    "uucz/moyu": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-03-25T04:09:26.578976",
+      "description": ""
+    },
+    "Tubo2333/obsidian-knowledge-brain": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-07-11T05:16:31.387156",
+      "description": ""
+    },
+    "ZhangHanDong/makepad-skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109684",
+      "description": ""
+    },
+    "fvadicamo/dev-agent-skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109651",
+      "description": ""
+    },
+    "foryourhealth111-pixel/Vibe-Skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-05-04T05:23:48.419482",
+      "description": ""
+    },
+    "Optim-Agent/optim-agent": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-08-13T04:14:37.841751",
+      "description": ""
+    },
+    "mattpocock/skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-03-24T04:07:55.842066",
+      "description": ""
+    },
+    "Simon-He95/markstream-vue": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-08-14T04:11:13.662616",
+      "description": ""
+    },
+    "alinaqi/claude-bootstrap": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109729",
+      "description": ""
+    },
+    "honeydew-ai/honeydew-ai-coding-agents-plugins": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-05-11T05:49:20.903821",
+      "description": ""
+    },
+    "squirrelscan/squirrelscan": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-08-14T04:11:13.662705",
+      "description": ""
+    },
+    "Paramchoudhary/ResumeSkills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109694",
+      "description": ""
+    },
+    "degausai/wonda": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-04-17T04:40:20.235720",
+      "description": ""
+    },
+    "gooseworks-ai/goose-skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-08-14T04:11:13.662847",
+      "description": ""
+    },
+    "PSPDFKit-labs/nutrient-agent-skill": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109696",
+      "description": ""
+    },
+    "makenotion/claude-code-notion-plugin": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-03-30T04:36:06.656544",
+      "description": ""
+    },
+    "wrsmith108/varlock-claude-skill": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109705",
+      "description": ""
+    },
+    "lindblomstefan/skills-library": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-08-24T03:05:54.222946",
+      "description": ""
+    },
+    "zilliztech/mfs": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-08-13T04:14:37.841875",
+      "description": ""
+    },
+    "lawvable/awesome-legal-skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109667",
+      "description": ""
+    },
+    "agiwhitelist/auteur": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-08-19T02:59:56.746392",
+      "description": ""
+    },
+    "pattern-ai-labs/agentcall": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-06-24T05:57:30.687166",
+      "description": ""
+    },
+    "citlyze/citlyze-skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-08-24T03:05:54.222759",
+      "description": ""
+    },
+    "deusyu/translate-book": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-03-24T04:07:55.842108",
+      "description": ""
+    },
+    "K-Dense-AI/claude-scientific-skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109725",
+      "description": ""
+    },
+    "infrasity-labs/dev-gtm-claude-skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-06-13T06:06:41.984253",
+      "description": ""
+    },
+    "frmoretto/clarity-gate": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109649",
+      "description": ""
+    },
+    "JimmySadek/youtube-fetcher-to-markdown": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-08-17T03:02:32.091994",
+      "description": ""
+    },
+    "Kevin7Qi/codex-collab": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-03-18T04:13:12.616103",
+      "description": ""
+    },
+    "Rootly-AI-Labs/Rootly-MCP-server": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109683",
+      "description": ""
+    },
+    "sanjay3290/ai-skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109659",
+      "description": ""
+    },
+    "orziz/odai": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-08-24T03:05:54.222777",
+      "description": ""
+    },
+    "redis/agent-skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-05-04T05:23:48.419514",
+      "description": ""
+    },
+    "openaccountants/openaccountants": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-04-17T04:40:20.235654",
+      "description": ""
+    },
+    "realkimbarrett/advertising-skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-04-12T04:37:59.238563",
+      "description": ""
+    },
+    "cypress-io/ai-toolkit": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-06-06T05:45:10.014732",
+      "description": ""
+    },
+    "RoundTable02/tutor-skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-03-02T04:03:57.135296",
+      "description": ""
+    },
+    "muthuishere/hand-drawn-diagrams": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-03-24T04:07:55.842091",
+      "description": ""
+    },
+    "shouldnotappearcalm/a-share-skill": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-07-11T05:16:31.387176",
+      "description": ""
+    },
+    "Joannis/claude-skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109661",
+      "description": ""
+    },
+    "mcollina/skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-03-26T04:23:38.737221",
+      "description": ""
+    },
+    "massimodeluisa/recursive-decomposition-skill": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109664",
+      "description": ""
+    },
+    "muratcankoylan/Agent-Skills-for-Context-Engineering": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109668",
+      "description": ""
+    },
+    "HeshamFS/materials-simulation-skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109637",
+      "description": ""
+    },
+    "CloudAI-X/threejs-skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109657",
+      "description": ""
+    },
+    "superdesigndev/superdesign-skill": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-08-19T02:59:56.746381",
+      "description": ""
+    },
+    "SupercmoHQ/superCMO-skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-08-21T03:05:38.204220",
+      "description": ""
+    },
+    "NeoLabHQ/context-engineering-kit": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-03-05T04:02:24.313965",
+      "description": ""
+    },
+    "talkstream/ru-text": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-04-02T04:18:35.406190",
+      "description": ""
+    },
+    "kreuzberg-dev/kreuzberg": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109663",
+      "description": ""
+    },
+    "ramzesenok/iOS-Accessibility-Audit-Skill": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-03-03T04:04:40.453737",
+      "description": ""
+    },
+    "Panniantong/Agent-Reach": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-06-24T05:57:30.687220",
+      "description": ""
+    },
+    "PleasePrompto/notebooklm-skill": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109723",
+      "description": ""
+    },
+    "Vladimir-Human/humanizer-ru": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-08-13T04:14:37.841792",
+      "description": ""
+    },
+    "Sendmux/skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-07-11T05:16:31.387210",
+      "description": ""
+    },
+    "robzolkos/skill-rails-upgrade": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109679",
+      "description": ""
+    },
+    "Charlie85270/Dorothy": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-03-11T04:01:18.385205",
+      "description": ""
+    },
+    "oliver-zehentleitner/keep-the-why": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-08-04T05:18:02.922136",
+      "description": ""
+    },
+    "HUANGCHIHHUNGLeo/claude-real-video": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-08-16T03:02:28.318535",
+      "description": ""
+    },
+    "plasma-ai/fractal": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-08-14T04:11:13.662818",
+      "description": ""
+    },
+    "huifer/Claude-Ally-Health": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109731",
+      "description": ""
+    },
+    "Linked-API/linkedin-skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-07-11T05:16:31.387065",
+      "description": ""
+    },
+    "sergebulaev/linkedin-skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-08-14T04:11:13.662844",
+      "description": ""
+    },
+    "awrshift/claude-memory-kit": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-04-21T04:40:02.251501",
+      "description": ""
+    },
+    "khendzel/skills-janitor": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-08-13T04:14:37.841731",
+      "description": ""
+    },
+    "coderabbitai/skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-03-27T04:25:02.026242",
+      "description": ""
+    },
+    "thousandflowers/skillreaper": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-08-24T03:05:54.222961",
+      "description": ""
+    },
+    "Digidai/product-manager-skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-03-18T04:13:12.616083",
+      "description": ""
+    },
+    "csthink/dashmotion": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-07-11T05:16:31.387160",
+      "description": ""
+    },
+    "hanhuark/mechanical-engineering-research-skill": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-06-24T05:57:30.687181",
+      "description": ""
+    },
+    "zapier/zapier-mcp": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-08-14T04:11:13.662666",
+      "description": ""
+    },
+    "video-db/skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-03-07T03:50:49.944482",
+      "description": ""
+    },
+    "apitube/news-api-skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-08-24T03:05:54.222894",
+      "description": ""
+    },
+    "SHADOWPR0/beautiful_prose": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109759",
+      "description": ""
+    },
+    "KhazP/vibe-coding-prompt-template": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-08-25T03:01:13.095998",
+      "description": ""
+    },
+    "takechanman1228/claude-ecom": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-03-13T04:02:15.426327",
+      "description": ""
+    },
+    "CosmoBlk/email-marketing-bible": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109733",
+      "description": ""
+    },
+    "taisly/agent": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-07-11T05:16:31.387110",
+      "description": ""
+    },
+    "deanpeters/Product-Manager-Skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-03-04T03:59:05.699901",
       "description": ""
     },
     "drogers0/gh-image": {
       "upstream_source": "voltagent_awesome",
       "discovered_at": "2026-08-13T04:14:37.841738",
       "description": ""
+    },
+    "zscole/model-hierarchy-skill": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109674",
+      "description": ""
+    },
+    "Ryan-yang125/motion-lexicon": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-08-13T04:14:37.841764",
+      "description": ""
+    },
+    "ognjengt/founder-skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109746",
+      "description": ""
+    },
+    "google/skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-05-25T06:16:12.533183",
+      "description": ""
+    },
+    "AgriciDaniel/claude-seo": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109697",
+      "description": ""
+    },
+    "AIDevGTM/gtm-cofounder": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-08-04T05:18:02.922074",
+      "description": ""
+    },
+    "zarazhangrui/frontend-slides": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109687",
+      "description": ""
+    },
+    "JasonColapietro/suede-creator-skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-08-08T03:35:33.087937",
+      "description": ""
+    },
+    "prompt-security/clawsec": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109757",
+      "description": ""
+    },
+    "BehiSecc/VibeSec-Skill": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-03-04T03:59:05.699915",
+      "description": ""
+    },
+    "Alisa0808/vibe-creating-skill": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-07-11T05:16:31.387073",
+      "description": ""
+    },
+    "ohad6k/emulo": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-08-04T05:18:02.922084",
+      "description": ""
+    },
+    "en/copilot": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109676",
+      "description": ""
+    },
+    "antonbabenko/terraform-skill": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109747",
+      "description": ""
+    },
+    "BrianRWagner/ai-marketing-skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109752",
+      "description": ""
+    },
+    "SeanZoR/claude-speed-reader": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109704",
+      "description": ""
+    },
+    "ZeroPointRepo/youtube-skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-08-17T03:02:32.091948",
+      "description": ""
+    },
+    "Eronred/aso-skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-03-26T04:23:38.737271",
+      "description": ""
+    },
+    "gitroomhq/postiz-agent": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-04-21T04:40:02.251563",
+      "description": ""
+    },
+    "NVIDIA/skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-05-25T06:16:12.533202",
+      "description": ""
+    },
+    "hqhq1025/skill-optimizer": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-04-14T04:37:00.480220",
+      "description": ""
+    },
+    "komal-SkyNET/claude-skill-homeassistant": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109781",
+      "description": ""
+    },
+    "ibelick/ui-skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109714",
+      "description": ""
+    },
+    "zincio/skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-08-24T03:05:54.222850",
+      "description": ""
+    },
+    "truongduy2611/app-store-preflight-skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-03-24T04:07:55.842135",
+      "description": ""
+    },
+    "snyk/agent-scan": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109722",
+      "description": ""
+    },
+    "coreyhaines31/marketingskills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109720",
+      "description": ""
+    },
+    "aklofas/kicad-happy": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-04-16T04:43:12.837897",
+      "description": ""
+    },
+    "lackeyjb/playwright-skill": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109779",
+      "description": ""
+    },
+    "thedotmack/claude-mem": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-08-22T02:56:23.355862",
+      "description": ""
+    },
+    "ReScienceLab/opc-skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109737",
+      "description": ""
+    },
+    "efremidze/swift-patterns-skill": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109666",
+      "description": ""
+    },
+    "rudrankriyam/app-store-connect-cli-skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109711",
+      "description": ""
+    },
+    "kgraph57/mckinsey-style-visualization-skill": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-08-22T02:56:23.355766",
+      "description": ""
+    },
+    "scarletkc/vexor": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109743",
+      "description": ""
+    },
+    "baskduf/FableCodex": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-06-24T05:57:30.687245",
+      "description": ""
+    },
+    "santifer/career-ops": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-05-25T06:16:12.533261",
+      "description": ""
+    },
+    "VoltAgent/voltagent": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109786",
+      "description": ""
+    },
+    "trycourier/courier-skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-04-05T04:27:58.191532",
+      "description": ""
+    },
+    "gokapso/agent-skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109681",
+      "description": ""
+    },
+    "stjbrown/agent-knowledge": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-08-13T04:14:37.841783",
+      "description": ""
+    },
+    "jthack/ffuf_claude_skill": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109783",
+      "description": ""
+    },
+    "qdrant/skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-04-05T04:27:58.191456",
+      "description": ""
+    },
+    "phuryn/pm-skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-03-07T03:50:49.944432",
+      "description": ""
+    },
+    "VoltAgent/awesome-codex-subagents": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-03-20T04:04:12.610548",
+      "description": ""
+    },
+    "modem-dev/skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-08-19T02:59:56.746447",
+      "description": ""
+    },
+    "smixs/creative-director-skill": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-03-02T04:03:57.135263",
+      "description": ""
+    },
+    "zw008/VMware-AIops": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-03-02T04:03:57.135367",
+      "description": ""
+    },
+    "helius-labs/core-ai": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-03-19T04:11:47.127804",
+      "description": ""
+    },
+    "Orkas-AI/Orkas-VideoStudio": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-08-04T05:18:02.922062",
+      "description": ""
+    },
+    "MohamedAbdallah-14/unslop": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-05-04T05:23:48.419420",
+      "description": ""
+    },
+    "czlonkowski/n8n-skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109734",
+      "description": ""
+    },
+    "aeonfun/aeon": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-08-22T02:56:23.355798",
+      "description": ""
+    },
+    "officialzeroxyz/zero-plugins": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-07-01T06:15:40.300482",
+      "description": ""
+    },
+    "zxkane/aws-skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109749",
+      "description": ""
+    },
+    "nextlevelbuilder/ui-ux-pro-max-skill": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109744",
+      "description": ""
+    },
+    "browser-act/skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-08-04T05:18:02.922144",
+      "description": ""
+    },
+    "blader/humanizer": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-02-28T06:11:46.109669",
+      "description": ""
+    },
+    "resend/resend-skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-04-05T04:27:58.191475",
+      "description": ""
+    },
+    "ethos-link/rails-conventions": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-03-19T04:11:47.127733",
+      "description": ""
+    },
+    "dembrandt/dembrandt-skills": {
+      "upstream_source": "voltagent_awesome",
+      "discovered_at": "2026-05-25T06:16:12.533332",
+      "description": ""
     }
   },
-  "last_updated": "2026-08-24T03:05:54.223095",
-  "total_count": 199
+  "last_updated": "2026-08-25T03:01:13.096123",
+  "total_count": 200
 }
